@@ -8,14 +8,14 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 16,
+    "uniqCompNum": 17,
     "versionPublish": "3.12.1"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Deia o Moro Trabalhar",
+        "title": "Deixa o Moro Trabalhar",
         "meta_descr": "Dia 12 de julho de 2017. Viva S\bérgio Moro",
         "header_custom": "",
         "footer_custom": "",
